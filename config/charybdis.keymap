@@ -31,6 +31,7 @@
 #define SCROLL 5
 #define SNIPING 6
 #define GAMING 7
+#define NUMLAY 8
 
 / {
   behaviors {
